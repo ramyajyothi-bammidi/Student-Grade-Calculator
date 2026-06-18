@@ -218,8 +218,12 @@ Feedback     : Excellent Work! Keep Shining! 🌟
 
 ## Screenshots
 
-screenshots/input_validation.png
 
+### Valid Input and Output
+![Valid Output](screenshots/valid_input_output.png)
+
+### Input Validation and Error Handling
+![Input Validation](screenshots/input_validation.png)
 
 
 ## Documentation Link
