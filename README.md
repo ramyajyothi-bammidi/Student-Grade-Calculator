@@ -253,7 +253,7 @@ Through this project, I learned:
 ## Author
 
 Name: Bammidi Ramya Jyothi 
-Central University of Andhra Pradesh
+Institution: Central University of Andhra Pradesh
 
 GitHub Repository:
 https://github.com/ramyajyothi-bammidi/Student-Grade-Calculator
