@@ -252,10 +252,8 @@ Through this project, I learned:
 
 ## Author
 
-Name: [YOUR NAME]
+Name: Bammidi Ramya Jyothi 
+Central University of Andhra Pradesh
 
-Course: Python Programming
-
-Assignment: Week 2 – Student Grade Calculator
-
-GitHub Repository: [YOUR GITHUB REPOSITORY LINK]
+GitHub Repository:
+https://github.com/ramyajyothi-bammidi/Student-Grade-Calculator
