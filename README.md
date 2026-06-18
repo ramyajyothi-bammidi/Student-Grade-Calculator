@@ -95,8 +95,9 @@ Student-Grade-Calculator/
 1. Clone the repository:
 
 ```bash
-git clone [YOUR GITHUB REPOSITORY LINK]
+https://github.com/ramyajyothi-bammidi/Student-Grade-Calculator
 ```
+
 
 2. Open the project folder:
 
