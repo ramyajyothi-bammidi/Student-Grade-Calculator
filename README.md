@@ -218,15 +218,9 @@ Feedback     : Excellent Work! Keep Shining! 🌟
 
 ## Screenshots
 
-Add screenshots of successful program execution.
+screenshots/input_validation.png
 
-Example:
 
-```text
-screenshots/output.png
-```
-
----
 
 ## Documentation Link
 
