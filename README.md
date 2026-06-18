@@ -79,7 +79,8 @@ Student-Grade-Calculator/
 ├── grade_calculator.py
 ├── test_cases.txt
 └── screenshots/
-    └── output.png
+    ├── valid_input_output.png
+    └── input_validation.png
 ```
 
 ---
